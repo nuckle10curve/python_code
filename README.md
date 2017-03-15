@@ -22,7 +22,7 @@ and tested both
 Not sure what the designation 2.79 means
 
 5. Was not able to complete the d3 plotting.  Just not familiar with the
-java script library functionality.
+java script library functionality. Something that I would like to learn
 Fluent in Django for creating graphs, not as sexy as d3 but very functional.
 
 6. Added a requirements file for the python modules that needed to be implemented for this task
